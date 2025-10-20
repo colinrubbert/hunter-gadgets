@@ -1,0 +1,1 @@
+fetch\s*\(|XMLHttpRequest\s*\(|new\s+WebSocket\s*\(|import\(\s*|require\(\s*|location\.(?:hash|search|pathname|href|assign|replace)|window\.open\(|document\.cookie
